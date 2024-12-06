@@ -16,7 +16,7 @@ const Footer: FC<{ showDonateButton?: boolean }> = ({ showDonateButton }) => (
     )}
     <div className="my-4">
       <p>
-        Email us at{" "}
+        Test test test{" "}
         <ExternalLink
           className="link"
           href={`mailto:${siteSettings.footerEmail}`}
